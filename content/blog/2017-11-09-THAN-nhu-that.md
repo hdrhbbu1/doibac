@@ -5,7 +5,7 @@ author: [vjeux]
 
 ![ten buc hinh](https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-9/23231261_1848425432110240_8313046048712496470_n.jpg?oh=f167b7b4dcb96513847a8e4f5a735b9b&oe=5AA0678A "ten buc hinh")
 
-RÁN TU CHO GIẢI KHỔ 
+##RÁN TU CHO GIẢI KHỔ 
 
 Khổ mới tu rán tu cho giải khổ,
 Chớ nản lòng khi nạn nọ tai kia.
@@ -32,5 +32,5 @@ Luyện luôn thì sẽ hết tánh phàm phu;
 Đạo muốn thành cần phải dẻo chí tu,
 Cả đời sống hướng về câu giải thoát. 
 
-( Lời NGÀI THANH_SĨ )
-NAM MÔ A DI ĐÀ PHẬT
+*(Lời NGÀI THANH_SĨ)*
+**NAM MÔ A DI ĐÀ PHẬT**

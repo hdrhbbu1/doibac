@@ -13,9 +13,9 @@ Phật gia giảng nhân sinh vô thường, không có điều gì là bất bi
 
 Vậy trong cuộc đời ngắn ngủi ấy, có những việc nào không thể chờ đợi? Việc nào không cần phải lo sợ và việc nào không thể lựa chọn? Nắm bắt được những điều ấy, người ta sẽ dễ dàng thực hiện, chấp nhận hơn, từ đó sống được tự do thản đãng hơn.
 
-Đời người có hai điều không thể chờ đợi
+##Đời người có hai điều không thể chờ đợi
 
-Hiếu kính cha mẹ
+**Hiếu kính cha mẹ**
 
 Trên thế gian, có rất nhiều việc cần phải tùy thời, cần phải chờ đợi, nhưng riêng việc hiếu kính cha mẹ là việc không thể chờ đợi. Người xưa có câu: “Bách thiện hiếu vi tiên” (Trăm cái thiện thì hiếu đứng đầu), dù cha mẹ có là người như thế nào thì là phận con cái cũng phải thành tâm đối xử tốt với họ.
 
@@ -23,7 +23,7 @@ Con cái ngày một trưởng thành, cha mẹ ngày một già đi, hiếu kí
 
 Công ơn sinh thành nuôi dưỡng của cha mẹ cao như núi, nếu không thể báo đáp thì nhất định sẽ hối tiếc cả đời.
 
-Giữ gìn sức khỏe
+**Giữ gìn sức khỏe**
 
 Sức khỏe được ví như tiền vốn của mỗi người. Con người khi bị bệnh, mệt mỏi thường sẽ nghĩ lại và hối hận rằng đã không làm việc và nghỉ ngơi hợp lý. Nhưng khi bệnh có chuyển biến tốt thì người ta thường lại quên mất đạo lý này.
 
